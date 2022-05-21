@@ -19,7 +19,7 @@
   <img align="left" alt="Joao-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
   <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/515217604860837888/977372310182952990/download20220505213522.png">
 </div>
- 
+##
 <div> 
   <a href = "mailto:joaogorgonio1@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-gorgonio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
