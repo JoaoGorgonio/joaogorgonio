@@ -18,7 +18,7 @@
   <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
 
-  <img align="right" alt="Joao-pic" height="150" width="100%" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/657313986961997854/977370226612133948/gif-profile.gif">
+  <img align="right" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/657313986961997854/977370226612133948/gif-profile.gif?width=474&height=474">
 </div>
   
   ##
