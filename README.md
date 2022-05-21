@@ -17,7 +17,7 @@
   <img align="center" alt="Joao-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Joao-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Joao-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-  <img align="center" alt="Joao-pic" height="150" style="border-radius:50px;" src="media.discordapp.net/attachments/657313986961997854/977370226612133948/gif-profile.gif">
+  <img align="center" alt="Joao-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/515217604860837888/977372310182952990/download20220505213522.png">
 </div>
   
   ##
