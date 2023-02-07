@@ -1,4 +1,4 @@
-- 🔭 Atualmente, estudando Análise e Desenvolvimento de Sistemas, na UNIBR
+- 🔭 Desenvolvedor Fullstack
 - 🌱 Estudando React.Js e Node.js
 
 
